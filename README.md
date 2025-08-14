@@ -16,6 +16,14 @@
 
 ---
 
+## 📂 Portfolio
+
+<a href="https://portoqu.onrender.com/" target="_blank">
+  <img src="https://api.microlink.io/?url=https://portoqu.onrender.com/&screenshot=true&meta=false&embed=screenshot.url" alt="Portfolio Preview" style="height:100px; width:auto; border-radius:8px;" />
+</a>
+
+---
+
 ### 📌 About Me  
 - 💻 Fullstack Developer with experience in **Frontend, Backend, and Mobile App Development**  
 - 🎯 Focus on **clean code**, **scalable architecture**, and **user-friendly interfaces**  
