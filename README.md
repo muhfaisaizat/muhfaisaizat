@@ -19,7 +19,6 @@
 ### 📌 About Me  
 - 💻 Fullstack Developer with experience in **Frontend, Backend, and Mobile App Development**  
 - 🎯 Focus on **clean code**, **scalable architecture**, and **user-friendly interfaces**  
-- 🌱 Currently exploring **AI integration** and **DevOps**  
 - 💬 Ask me about **React, Node.js, NestJS, PHP, Flutter, Python**  
 - 📫 Reach me at **muhfaisaizat@gmail.com**  
 
